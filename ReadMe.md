@@ -21,8 +21,8 @@ Previously named TC03.
 ## ReactRedux_TC
 #### In this is the test case are used additional commands of cypress and the scenario differs from the Pastebin_TC.
 
-##### We are posting the same text `Hello World` as logged in user.
-##### In this case we are using more `should` commands to verify the links we visit.
+##### - We are posting the same text `Hello World` as logged in user.
+##### - In this case we are using more `should` commands to verify the links we visit.
 
 ---
 ## In both test cases we are using Cypress
