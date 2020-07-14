@@ -26,3 +26,5 @@ Previously named TC03.
 
 ---
 ## In both test cases we are using Cypress
+
+*TC stands for Test Case
