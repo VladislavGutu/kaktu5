@@ -14,7 +14,7 @@ Previously named TC03.
 
 ##### - The test meant to create paste with `Hello World` text in it.
 
-### - Feel free to use it in your needs.
+##### - Feel free to use it in your needs.
 
 ---
 
